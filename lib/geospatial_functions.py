@@ -5,7 +5,7 @@ import numpy as np
 
 import osgeo.gdal
 
-import shapely
+#import shapely
 
 
 def find_point_location_in_raster(origin, cellsize, point_xy):
